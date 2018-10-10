@@ -9,9 +9,9 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: AhnTaegyun
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
+title: 소심한 개발자
+subtitle: "안태균"
+email: tac1994@naver.com
 name: Ben Centra
 description: >
   A simple yet classy theme for your Jekyll website or blog.
@@ -72,17 +72,17 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username:
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url:
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
