@@ -12,7 +12,9 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 ## 새롭게 추가
 ### 1번
+[네이버]
 ### 2번
+[구글]
 
 ## Adding New Posts
 
@@ -76,3 +78,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+[네이버]: https://naver.com
+[구글]: https://google.com
