@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[1]점자시계 프로그래밍"
-data: 2018-10-12 13:28:00
+data: 2018-10-12 16:23:00
 author: An Taegyun
 categories: Projects
 tag: 아두이노
