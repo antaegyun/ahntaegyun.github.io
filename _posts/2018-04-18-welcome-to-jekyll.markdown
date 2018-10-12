@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "제대로 한번 시작해보자."
 date:   2018-04-18 08:43:59
-author: Ben Centra
+author: Ahn Tae Gyun
 categories: Study
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
